@@ -1,6 +1,6 @@
 # DownloadManager_APM
 Proyecto de DownLoad y Permiso
-INTERFAZ PRINCIPAL
+* INTERFAZ PRINCIPAL
 https://github.com/dennissezambrano2017/DownloadManager_APM/blob/master/Imagen1.png
 * Permiso
 https://github.com/dennissezambrano2017/DownloadManager_APM/blob/master/Imagen2.png
